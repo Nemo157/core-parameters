@@ -1,0 +1,8 @@
+[package]
+authors = ["Wim Looman <wim@nemo157.com>"]
+description = "Constrained RESTful Environments (CoRE) Parameters\n"
+name = "core-parameters"
+version = "0.1.0"
+
+[dependencies]
+uri = "0.3.0"
